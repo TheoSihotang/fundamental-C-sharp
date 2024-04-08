@@ -1,0 +1,15 @@
+/home/theo/RiderProjects/FundamentalUpskilling/FundamentalUpskilling/bin/Debug/net7.0/FundamentalUpskilling
+/home/theo/RiderProjects/FundamentalUpskilling/FundamentalUpskilling/bin/Debug/net7.0/FundamentalUpskilling.deps.json
+/home/theo/RiderProjects/FundamentalUpskilling/FundamentalUpskilling/bin/Debug/net7.0/FundamentalUpskilling.runtimeconfig.json
+/home/theo/RiderProjects/FundamentalUpskilling/FundamentalUpskilling/bin/Debug/net7.0/FundamentalUpskilling.dll
+/home/theo/RiderProjects/FundamentalUpskilling/FundamentalUpskilling/bin/Debug/net7.0/FundamentalUpskilling.pdb
+/home/theo/RiderProjects/FundamentalUpskilling/FundamentalUpskilling/obj/Debug/net7.0/FundamentalUpskilling.csproj.AssemblyReference.cache
+/home/theo/RiderProjects/FundamentalUpskilling/FundamentalUpskilling/obj/Debug/net7.0/FundamentalUpskilling.GeneratedMSBuildEditorConfig.editorconfig
+/home/theo/RiderProjects/FundamentalUpskilling/FundamentalUpskilling/obj/Debug/net7.0/FundamentalUpskilling.AssemblyInfoInputs.cache
+/home/theo/RiderProjects/FundamentalUpskilling/FundamentalUpskilling/obj/Debug/net7.0/FundamentalUpskilling.AssemblyInfo.cs
+/home/theo/RiderProjects/FundamentalUpskilling/FundamentalUpskilling/obj/Debug/net7.0/FundamentalUpskilling.csproj.CoreCompileInputs.cache
+/home/theo/RiderProjects/FundamentalUpskilling/FundamentalUpskilling/obj/Debug/net7.0/FundamentalUpskilling.dll
+/home/theo/RiderProjects/FundamentalUpskilling/FundamentalUpskilling/obj/Debug/net7.0/refint/FundamentalUpskilling.dll
+/home/theo/RiderProjects/FundamentalUpskilling/FundamentalUpskilling/obj/Debug/net7.0/FundamentalUpskilling.pdb
+/home/theo/RiderProjects/FundamentalUpskilling/FundamentalUpskilling/obj/Debug/net7.0/FundamentalUpskilling.genruntimeconfig.cache
+/home/theo/RiderProjects/FundamentalUpskilling/FundamentalUpskilling/obj/Debug/net7.0/ref/FundamentalUpskilling.dll
