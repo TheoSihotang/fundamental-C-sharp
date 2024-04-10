@@ -9,7 +9,7 @@ public class MyMethod
         //block code
        }
      */
-    public static void Main(string[] args)
+    public void Main(string[] args)
     {
         // Console.WriteLine(Sum(5, 2));
         // Console.WriteLine(Divide(5, 2));
@@ -35,8 +35,7 @@ public class MyMethod
         };
 
         MethodWithLambda(5, 5);*/
-        
-        
+
     }
     
 
