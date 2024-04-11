@@ -66,7 +66,7 @@ public class Car
         _fuel = fuel;
     }
     
-    //cara kedua 
+    //cara kedua -> dapat membuat validasi untuk set
     // public string Color
     // {
     //     get { return _color; }
@@ -84,23 +84,37 @@ public class Car
     //     get { return _fuel; }
     //     set { _fuel = value; }
     // }
+     
+    /*cara ketiga*/
+    // public string Color { get; set; }
+    // public string Brand { get; set; }
+    // public int Fuel { get; set; }
+    
 }
 
-public class Program
-{
-    public static void Main(string[] args)
-    {
-        // bisa seperti ini untuk melakukan instance object
-        Car ayla = new Car("Red", "Honda", 20);
-
-        Console.WriteLine(ayla.GetBrand());
-        
-        // bisa juga seperti ini 
-        var aylaNew = new Car("Blue", "Toyota", 30);
-
-
-        var bmw = new Car("Maroon", "Mobil Kenceng Nih", 100);
-        // bmw.Color = "Green";
-        // Console.WriteLine(bmw.Color);
-    }
-}
+// public class Program
+// {
+//     public static void Main(string[] args)
+//     {
+//         // bisa seperti ini untuk melakukan instance object
+//         Car ayla = new Car("Red", "Honda", 20);
+//
+//         Console.WriteLine(ayla.GetBrand());
+//         
+//         // bisa juga seperti ini 
+//         var aylaNew = new Car("Blue", "Toyota", 30);
+//
+//
+//         // bisa dibuat seperti ini juga jika menggunakan cara ketiga
+//         // var bmw = new Car
+//         // {
+//         //     Color = "white",
+//         //     Brand = "Toyota",
+//         //     Fuel = 50
+//         //     
+//         // };
+//         // Console.WriteLine(bmw.Color);
+//         // Console.WriteLine(bmw.Brand);
+//         // Console.WriteLine(bmw.Fuel);
+//     }
+// }

@@ -38,5 +38,11 @@ public class Conditional
             default: Console.WriteLine("Apa nih... bukan nama hari brooo");
                 break;
         }
+        
+        // ternary operator
+        var grade = 'A';
+
+        var result = grade == 'A' ? "Excelent" : "Try Again";
+        Console.WriteLine(result);
     }
 }
