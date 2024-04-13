@@ -44,50 +44,50 @@ public class Hero : IHitAble
     }
 }
 
-public class Program
-{
-    public static void Main(string[] args)
-    {
-        /*
-         * Hero Attack hero
-         *         // var midoriya = new Hero
-           // {
-           //     Name = "Midoriya Izuku",
-           //     HP = 2000,
-           //     BaseDamage = 450
-           // };
-           //
-           // var todoroki = new Hero
-           // {
-           //     Name = "Todoroki Shoto",
-           //     HP = 1800,
-           //     BaseDamage = 370
-           // };
-           //
-           // midoriya.Attack(todoroki);
-           // Console.WriteLine(todoroki.HP);
-         */
-        
-        /*
-         * Hero Attack Monster
-         */
-        var midoriya = new Hero
-        {
-            Name = "Midoriya Izuku",
-            HP = 2000,
-            BaseDamage = 450
-        };
-
-        var shigaraki = new Monster
-        {
-            Name = "Shigaraki Tomura",
-            HP = 3000,
-            BaseDamage = 600
-        };
-        
-        midoriya.Attack(shigaraki);
-        shigaraki.Attack(midoriya);
-        Console.WriteLine(shigaraki.HP);
-        Console.WriteLine(midoriya.HP);
-    }
-}
+// public class Program
+// {
+//     public static void Main(string[] args)
+//     {
+//         /*
+//          * Hero Attack hero
+//          *         // var midoriya = new Hero
+//            // {
+//            //     Name = "Midoriya Izuku",
+//            //     HP = 2000,
+//            //     BaseDamage = 450
+//            // };
+//            //
+//            // var todoroki = new Hero
+//            // {
+//            //     Name = "Todoroki Shoto",
+//            //     HP = 1800,
+//            //     BaseDamage = 370
+//            // };
+//            //
+//            // midoriya.Attack(todoroki);
+//            // Console.WriteLine(todoroki.HP);
+//          */
+//         
+//         /*
+//          * Hero Attack Monster
+//          */
+//         var midoriya = new Hero
+//         {
+//             Name = "Midoriya Izuku",
+//             HP = 2000,
+//             BaseDamage = 450
+//         };
+//
+//         var shigaraki = new Monster
+//         {
+//             Name = "Shigaraki Tomura",
+//             HP = 3000,
+//             BaseDamage = 600
+//         };
+//         
+//         midoriya.Attack(shigaraki);
+//         shigaraki.Attack(midoriya);
+//         Console.WriteLine(shigaraki.HP);
+//         Console.WriteLine(midoriya.HP);
+//     }
+// }
